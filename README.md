@@ -57,7 +57,7 @@ This project applies **predictive analytics** to identify the likelihood of loan
 
 ## 🚀 How to Run
 ```bash
-git clone https://github.com/yourusername/loan-default-prediction.git
+git clone https://github.com/ivikassingh2/Default.git
 cd loan-default-prediction
 pip install -r requirements.txt
 jupyter notebook Predictive_Analytics_Loan_Default.ipynb

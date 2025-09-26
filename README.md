@@ -57,7 +57,7 @@ This project applies **predictive analytics** to identify the likelihood of loan
 
 ## 🚀 Run in Google Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivikassingh2/default/blob/main/Predictive_Analytics_Loan_Default.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivikassingh2/Home_loan_Default/blob/main/Predictive_Analytics_Loan_Default.ipynb)
 
 ## 📊 Model Performance Comparison
 

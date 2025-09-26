@@ -55,9 +55,7 @@ This project applies **predictive analytics** to identify the likelihood of loan
 - XGBoost, LightGBM, CatBoost  
 - Jupyter Notebook  
 
-## 🚀 How to Run
-```bash
-git clone https://github.com/ivikassingh2/Default.git
-cd loan-default-prediction
-pip install -r requirements.txt
-jupyter notebook Predictive_Analytics_Loan_Default.ipynb
+## 🚀 Run in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ivikassingh2/default/blob/main/Predictive_Analytics_Loan_Default.ipynb)
+
